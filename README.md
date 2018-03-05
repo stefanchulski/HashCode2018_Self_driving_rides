@@ -3,8 +3,8 @@ HashCode 2018 solution
 
 Marvell Semiconductor Team.
 
-Stefan Chulski
-Anton Adamsky
+Stefan Chulski,
+Anton Adamsky,
 Alex Zemtzov
 
 Our solutions for #Google #Hashcode 2018
