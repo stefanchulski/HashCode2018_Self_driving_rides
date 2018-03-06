@@ -11,4 +11,6 @@ Anton Adamsky - adamsky.anton@gmail.com
 
 Alex Zemtzov - Zemalex89@gmail.com
 
+49,422,284
+
 Our solutions for #Google #Hashcode 2018
